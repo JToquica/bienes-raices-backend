@@ -6,7 +6,7 @@ const port = 3000;
 
 //Crear Routing
 app.get("/", (req, res) => {
-    res.send("Hola Mundo");
+    res.send("Hola Mundo 2");
 })
 
 //Definir puerto de escucha
