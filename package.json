@@ -1,0 +1,33 @@
+{
+  "name": "bienes-raices",
+  "version": "1.0.0",
+  "description": "Proyecto hecho con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JToquica/bienes-raices.git"
+  },
+  "keywords": [
+    "MVC",
+    "Sequelize",
+    "Tailwind",
+    "MySQL",
+    "Pug"
+  ],
+  "author": "Jose Toquica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JToquica/bienes-raices/issues"
+  },
+  "homepage": "https://github.com/JToquica/bienes-raices#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
